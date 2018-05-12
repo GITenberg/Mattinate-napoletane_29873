@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34219
     wikipedia: http://it.wikipedia.org/wiki/Salvatore_Di_Giacomo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29873#Mattinate-napoletane
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2009-08-31'
 gutenberg_type: Text
